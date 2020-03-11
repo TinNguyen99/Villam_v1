@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_tab"
+        android:icon="@drawable/ic_home"
+        android:title="Bảng theo dõi" />
+
+    <item android:id="@+id/history_tab"
+        android:icon="@drawable/ic_history"
+        android:title="Thống kê" />
+
+    <item android:id="@+id/setting_tab"
+        android:icon="@drawable/ic_setting"
+        android:title="Cài đặt" />
+
+</menu>
